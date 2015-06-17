@@ -15,10 +15,10 @@ FluentLeniumは、Selenium WebDriverソースをシンプルに書けるJavaラ�
  - テストケースはBrowserTestBaseを継承してください。
  - ページクラスはPageBaseを継承してください。
 
-* プロパティファイルを提供しています。
- 設定したいプロパティがあれば、env.propertiesに設定してください。
- /fluentlenium-sample/src/test/resources/env.properties
- 設定したプロパティはEnv.javaから取得可能です。
+* プロパティファイルを提供しています。  
+ 設定したいプロパティがあれば、env.propertiesに設定してください。  
+ /fluentlenium-sample/src/test/resources/env.properties  
+ 設定したプロパティはEnv.javaから取得可能です。  
 
 * 試験結果レポート（Excel）を自動作成します。
  レポートファイル（Excel）はテストクラス毎に作成されます。
