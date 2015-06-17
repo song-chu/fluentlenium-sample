@@ -1,4 +1,4 @@
-package com.legendapl.fluent.common.util;
+package com.test.fluent.common.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -1,13 +1,13 @@
-package com.legendapl.fluent.common.test;
+package com.test.fluent.common.test;
 
 import org.fluentlenium.core.annotation.Page;
 
-import com.legendapl.fluent.common.test.page.CommonPage;
-import com.legendapl.fluent.common.test.page.CompanySelectPage;
-import com.legendapl.fluent.common.test.page.LoginPage;
-import com.legendapl.fluent.common.test.page.PageBase;
-import com.legendapl.fluent.common.test.page.PageHeader;
-import com.legendapl.fluent.common.test.page.TPPage;
+import com.test.fluent.common.test.page.CommonPage;
+import com.test.fluent.common.test.page.CompanySelectPage;
+import com.test.fluent.common.test.page.LoginPage;
+import com.test.fluent.common.test.page.PageBase;
+import com.test.fluent.common.test.page.PageHeader;
+import com.test.fluent.common.test.page.TPPage;
 
 /**
  * テスト共通機能

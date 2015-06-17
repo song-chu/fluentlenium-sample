@@ -1,8 +1,8 @@
-package com.legendapl.fluent.common.util;
+package com.test.fluent.common.util;
 
 import java.util.Date;
 
-import com.legendapl.fluent.common.env.Env;
+import com.test.fluent.common.env.Env;
 
 /**
  * テスト環境関連ユーティリティクラス

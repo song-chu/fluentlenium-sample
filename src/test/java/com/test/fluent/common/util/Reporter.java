@@ -1,4 +1,4 @@
-package com.legendapl.fluent.common.util;
+package com.test.fluent.common.util;
 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
@@ -31,9 +31,9 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.util.CellRangeAddress;
 
-import com.legendapl.fluent.common.annotation.ClassComment;
-import com.legendapl.fluent.common.annotation.MethodComment;
-import com.legendapl.fluent.common.env.Env;
+import com.test.fluent.common.annotation.ClassComment;
+import com.test.fluent.common.annotation.MethodComment;
+import com.test.fluent.common.env.Env;
 
 /**
  * Seleniumテストにて作成したイメージファイルをExcelに纏めるクラス

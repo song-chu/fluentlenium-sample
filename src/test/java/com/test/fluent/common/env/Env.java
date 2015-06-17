@@ -1,4 +1,4 @@
-package com.legendapl.fluent.common.env;
+package com.test.fluent.common.env;
 
 import java.util.ResourceBundle;
 

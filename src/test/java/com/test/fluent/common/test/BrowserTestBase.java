@@ -1,4 +1,4 @@
-package com.legendapl.fluent.common.test;
+package com.test.fluent.common.test;
 
 import java.io.File;
 import java.util.HashMap;
@@ -15,10 +15,10 @@ import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
-import com.legendapl.fluent.common.env.Env;
-import com.legendapl.fluent.common.util.EnvUtils;
-import com.legendapl.fluent.common.util.FileAttributeUtil;
-import com.legendapl.fluent.common.util.Reporter;
+import com.test.fluent.common.env.Env;
+import com.test.fluent.common.util.EnvUtils;
+import com.test.fluent.common.util.FileAttributeUtil;
+import com.test.fluent.common.util.Reporter;
 
 /**
  * 画面テストの基底

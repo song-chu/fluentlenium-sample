@@ -1,4 +1,4 @@
-package com.legendapl.fluent.common.db;
+package com.test.fluent.common.db;
 
 import java.sql.Connection;
 import java.sql.Statement;

@@ -1,4 +1,4 @@
-package com.legendapl.fluent.common.test.page;
+package com.test.fluent.common.test.page;
 
 /**
  * ログインページ

@@ -1,4 +1,4 @@
-package com.legendapl.fluent.common.annotation;
+package com.test.fluent.common.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -6,17 +6,14 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * クラスコメント
+ * メソッドコメント
  *
  * @author c.k.song
  *
  */
-@Target({ ElementType.TYPE })
+@Target({ ElementType.METHOD })
 @Retention(RetentionPolicy.RUNTIME)
-public @interface ClassComment {
-	/** リポートファイル名 */
-	String reportFileName();
-
+public @interface MethodComment {
 	/** コメント */
 	String[] value();
 }

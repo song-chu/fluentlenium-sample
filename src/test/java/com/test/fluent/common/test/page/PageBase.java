@@ -1,4 +1,4 @@
-package com.legendapl.fluent.common.test.page;
+package com.test.fluent.common.test.page;
 
 import java.io.File;
 import java.util.HashMap;
@@ -20,8 +20,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.legendapl.fluent.common.util.EnvUtils;
-import com.legendapl.fluent.common.util.FileAttributeUtil;
+import com.test.fluent.common.util.EnvUtils;
+import com.test.fluent.common.util.FileAttributeUtil;
 
 /**
  * 基底ページ

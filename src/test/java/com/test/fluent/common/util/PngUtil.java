@@ -1,4 +1,4 @@
-package com.legendapl.fluent.common.util;
+package com.test.fluent.common.util;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
