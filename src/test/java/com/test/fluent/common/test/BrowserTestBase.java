@@ -10,12 +10,14 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.fluentlenium.adapter.FluentTest;
+import org.fluentlenium.core.annotation.Page;
 import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
 import com.test.fluent.common.env.Env;
+import com.test.fluent.common.test.page.PageBase;
 import com.test.fluent.common.util.EnvUtils;
 import com.test.fluent.common.util.FileAttributeUtil;
 import com.test.fluent.common.util.Reporter;
@@ -29,6 +31,10 @@ public class BrowserTestBase extends FluentTest {
 
 	/** ログ */
 	private static Log log = LogFactory.getLog(BrowserTestBase.class);
+
+	/** ベース */
+	@Page
+	public PageBase pageBase;
 
 	/**
 	 * 初期処理

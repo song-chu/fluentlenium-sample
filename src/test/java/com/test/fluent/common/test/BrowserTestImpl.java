@@ -5,7 +5,6 @@ import org.fluentlenium.core.annotation.Page;
 import com.test.fluent.common.test.page.CommonPage;
 import com.test.fluent.common.test.page.CompanySelectPage;
 import com.test.fluent.common.test.page.LoginPage;
-import com.test.fluent.common.test.page.PageBase;
 import com.test.fluent.common.test.page.PageHeader;
 import com.test.fluent.common.test.page.TPPage;
 
@@ -16,10 +15,6 @@ import com.test.fluent.common.test.page.TPPage;
  *
  */
 public class BrowserTestImpl extends BrowserTestBase {
-
-	/** ベース */
-	@Page
-	public PageBase pageBase;
 
 	/** 共通ベース */
 	@Page
