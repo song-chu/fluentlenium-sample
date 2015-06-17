@@ -15,7 +15,7 @@ import org.apache.commons.lang3.time.FastDateFormat;
 
 /**
  * 日付ユーティリティ
- * @author 宋
+ * @author c.k.song
  *
  */
 public class RdDateUtils {

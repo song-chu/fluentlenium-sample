@@ -23,7 +23,7 @@ import com.sun.imageio.plugins.png.PNGMetadata;
 
 /**
  *
- * @author works780
+ * @author c.k.song
  *
  */
 public class PngUtil {

@@ -8,7 +8,7 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  * 文字列操作ユーティリティ
- * @author 宋
+ * @author c.k.song
  *
  */
 public class RdStringUtils {

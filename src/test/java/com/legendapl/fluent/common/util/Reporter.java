@@ -38,7 +38,7 @@ import com.legendapl.fluent.common.env.Env;
 /**
  * Seleniumテストにて作成したイメージファイルをExcelに纏めるクラス
  *
- * @author la_song
+ * @author c.k.song
  *
  */
 public class Reporter {

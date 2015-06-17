@@ -26,7 +26,7 @@ import com.legendapl.fluent.common.util.FileAttributeUtil;
 /**
  * 基底ページ
  *
- * @author la_song
+ * @author c.k.song
  *
  */
 public class PageBase extends FluentPage {

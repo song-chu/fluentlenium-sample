@@ -6,7 +6,7 @@ import java.util.ResourceBundle;
 
 /**
  * DBコネクション取得
- * @author la_song
+ * @author c.k.song
  *
  */
 public class DbConnection {

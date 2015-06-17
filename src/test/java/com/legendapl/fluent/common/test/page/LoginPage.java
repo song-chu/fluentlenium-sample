@@ -3,7 +3,7 @@ package com.legendapl.fluent.common.test.page;
 /**
  * ログインページ
  *
- * @author la_song
+ * @author c.k.song
  *
  */
 public class LoginPage extends PageBase {

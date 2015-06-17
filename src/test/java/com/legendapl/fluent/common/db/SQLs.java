@@ -4,7 +4,7 @@ import java.util.ResourceBundle;
 
 /**
  * SQL文取得
- * @author 宋
+ * @author c.k.song
  *
  */
 public class SQLs {

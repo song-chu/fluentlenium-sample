@@ -12,7 +12,7 @@ import java.nio.file.attribute.UserDefinedFileAttributeView;
 /**
  * ファイルのユーザ定義属性管理
  *
- * @author la_song
+ * @author c.k.song
  *
  */
 public class FileAttributeUtil {

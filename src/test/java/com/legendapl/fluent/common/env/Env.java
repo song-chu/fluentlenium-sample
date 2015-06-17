@@ -4,7 +4,7 @@ import java.util.ResourceBundle;
 
 /**
  * 設定項目値取得
- * @author 宋
+ * @author c.k.song
  *
  */
 public class Env {

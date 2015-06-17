@@ -10,20 +10,20 @@ import com.legendapl.fluent.common.test.page.PageHeader;
 import com.legendapl.fluent.common.test.page.TPPage;
 
 /**
- * 承認WFシナリオ
+ * テスト共通機能
  *
- * @author la_song
+ * @author c.k.song
  *
  */
-public class CcmBrowserTest extends BrowserTestBase {
+public class BrowserTestImpl extends BrowserTestBase {
 
 	/** ベース */
 	@Page
 	public PageBase pageBase;
 
-	/** Ccmベース */
+	/** 共通ベース */
 	@Page
-	public CommonPage ccmPageBase;
+	public CommonPage commonPage;
 
 	/** ヘッダー */
 	@Page
@@ -77,6 +77,6 @@ public class CcmBrowserTest extends BrowserTestBase {
 	 * @throws Exception
 	 */
 	protected void view() throws Exception {
-		ccmPageBase.view();
+		commonPage.view();
 	}
 }

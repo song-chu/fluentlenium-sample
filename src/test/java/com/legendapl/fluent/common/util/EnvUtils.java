@@ -6,7 +6,7 @@ import com.legendapl.fluent.common.env.Env;
 
 /**
  * テスト環境関連ユーティリティクラス
- * @author la_song
+ * @author c.k.song
  *
  */
 public class EnvUtils {

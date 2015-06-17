@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 /**
  * TPページ
  *
- * @author la_song
+ * @author c.k.song
  *
  */
 public class TPPage extends CommonPage {

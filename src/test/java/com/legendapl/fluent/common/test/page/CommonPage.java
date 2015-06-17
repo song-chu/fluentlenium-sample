@@ -14,7 +14,7 @@ import org.openqa.selenium.WebElement;
 /**
  * 基底ページ
  *
- * @author la_song
+ * @author c.k.song
  *
  */
 public class CommonPage extends PageBase {

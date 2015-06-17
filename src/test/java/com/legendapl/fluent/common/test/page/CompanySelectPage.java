@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 /**
  * 会社選択
  *
- * @author la_song
+ * @author c.k.song
  *
  */
 public class CompanySelectPage extends CommonPage {

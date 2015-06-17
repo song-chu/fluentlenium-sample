@@ -5,7 +5,7 @@ import java.sql.Statement;
 
 /**
  * SQL実行
- * @author la_song
+ * @author c.k.song
  *
  */
 public class DbExecuter {

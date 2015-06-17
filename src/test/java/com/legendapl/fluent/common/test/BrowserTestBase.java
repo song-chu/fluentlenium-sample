@@ -22,7 +22,7 @@ import com.legendapl.fluent.common.util.Reporter;
 
 /**
  * 画面テストの基底
- * @author la_song
+ * @author c.k.song
  *
  */
 public class BrowserTestBase extends FluentTest {

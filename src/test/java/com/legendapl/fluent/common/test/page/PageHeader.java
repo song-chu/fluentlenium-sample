@@ -3,7 +3,7 @@ package com.legendapl.fluent.common.test.page;
 /**
  * 基底ページ
  *
- * @author la_song
+ * @author c.k.song
  *
  */
 public class PageHeader extends PageBase {

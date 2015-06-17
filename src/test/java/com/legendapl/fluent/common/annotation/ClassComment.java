@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 /**
  * クラスコメント
  *
- * @author la_song
+ * @author c.k.song
  *
  */
 @Target({ ElementType.TYPE })
