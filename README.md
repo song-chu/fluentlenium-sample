@@ -12,8 +12,8 @@ FluentLeniumは、Selenium WebDriverソースをシンプルに書けるJavaラ�
 
 ## このサンプルの特徴
 * よりコード量を減らすため、fluentlenium APIをさらに拡張しています。
-- テストケースはBrowserTestBaseを継承してください。
-- ページクラスはPageBaseを継承してください。
+** テストケースはBrowserTestBaseを継承してください。
+** ページクラスはPageBaseを継承してください。
 
 * プロパティファイルを提供しています。
 設定したいプロパティがあれば、env.propertiesに設定してください。
