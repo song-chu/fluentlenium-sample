@@ -17,10 +17,10 @@ import org.openqa.selenium.WebElement;
  * @author la_song
  *
  */
-public class CcmPageBase extends PageBase {
+public class CommonPage extends PageBase {
 
 	/** ログ */
-	private static Log log = LogFactory.getLog(CcmPageBase.class);
+	private static Log log = LogFactory.getLog(CommonPage.class);
 
 	/**
 	 * contents Frame選択

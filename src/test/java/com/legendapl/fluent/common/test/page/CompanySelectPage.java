@@ -12,7 +12,7 @@ import org.openqa.selenium.WebElement;
  * @author la_song
  *
  */
-public class CompanySelectPage extends CcmPageBase {
+public class CompanySelectPage extends CommonPage {
 
 	/** ログ */
 	private static Log log = LogFactory.getLog(CompanySelectPage.class);

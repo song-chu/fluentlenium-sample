@@ -13,7 +13,7 @@ import org.openqa.selenium.WebElement;
  * @author la_song
  *
  */
-public class TPPage extends CcmPageBase {
+public class TPPage extends CommonPage {
 
 	/** ログ */
 	private static Log log = LogFactory.getLog(TPPage.class);

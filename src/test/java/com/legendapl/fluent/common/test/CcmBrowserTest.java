@@ -2,7 +2,7 @@ package com.legendapl.fluent.common.test;
 
 import org.fluentlenium.core.annotation.Page;
 
-import com.legendapl.fluent.common.test.page.CcmPageBase;
+import com.legendapl.fluent.common.test.page.CommonPage;
 import com.legendapl.fluent.common.test.page.CompanySelectPage;
 import com.legendapl.fluent.common.test.page.LoginPage;
 import com.legendapl.fluent.common.test.page.PageBase;
@@ -23,7 +23,7 @@ public class CcmBrowserTest extends BrowserTestBase {
 
 	/** Ccmベース */
 	@Page
-	public CcmPageBase ccmPageBase;
+	public CommonPage ccmPageBase;
 
 	/** ヘッダー */
 	@Page
